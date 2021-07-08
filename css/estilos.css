@@ -1,0 +1,21 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+h1{
+    background-color:blue;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+h3{
+    background-color: aqua;
+}    
+   
+h4{
+    color: darkgrey;
+}
+
+.resaltado{
+    font-weight: bold;
+}
+.impar{
+    background-color: lightgray;
